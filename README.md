@@ -32,7 +32,7 @@ Tile Representation:
 
 Spacing each tile by a space, for example:
 ```
-Input your hands >>1m 1m 1m 2m 3m 2m 3m 4m 3m 4m 5m 5p 6p 7p
+Input your hands >>1m 1m 1m 2m 2m 3m 3m 3m 4m 4m 5m 5p 6p 7p
 ```
 
 Output:
